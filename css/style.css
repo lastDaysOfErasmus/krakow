@@ -16,7 +16,6 @@ body {
   font-size: 130%;
   margin: 0;
   font-family: 'Montserrat', sans-serif;
-
   display: inline-block;
   margin-right: 40px;
   margin-top: 20px;
@@ -50,12 +49,21 @@ body {
 
 .quoteback {
   width: auto;
-  height: 150px;
+  height: 10%;
   background-color: #c7f0db;
 
 }
 
 .quote {
   text-align: center;
-  padding-top: 5%;
+  padding-top: 1.5%;
+}
+
+.dirname {
+  padding-left: 60%;
+}
+
+.poster1 {
+  width: 30%;
+  padding-left: 20%;
 }
